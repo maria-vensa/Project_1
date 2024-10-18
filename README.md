@@ -39,7 +39,7 @@ Apply "ML algorithm" - Multivariate
   ![image](https://github.com/user-attachments/assets/bdee3580-d5cf-42dc-a870-445e3a08f922)
   ![image](https://github.com/user-attachments/assets/daaf9413-6077-4e33-bce5-279f29df9dcc)
 
-    ## Recommendations
+    
 
 
 
